@@ -3,7 +3,7 @@
 ![Final Result Gif](./result.gif)
 
 
-The Project
+Project Overview
 ---
 
 The goals / steps of this project are the following:
